@@ -1,0 +1,26 @@
+
+insert into questions values(null,'Exemplu intrebare 1','1. raspuns corect','2. raspuns gresit','3. probabil gresit','4. nu stiu',1);
+
+insert into questions values(null,'Un server multi thread este','1. concurent','2. iterativ','3. nu stiu','4. am uitat',1);
+
+insert into questions values(null,'Coca ....','1. Fanta','2. Pepsi','3. nu stiu','4. Cola',4);
+
+insert into questions values(null,'Proiectul la retele trebuie prezentat in','1. restanta','2. ultimele saptamani','3. in vacanta','4. niciodata',2);
+
+insert into questions values(null,'Numele aplicatiei este...','1. Fazan','2. ChessGame','3. QuizzGame','4. CounterStrike',3);
+
+insert into questions values(null,'Interfata a fost realizata prin...','1. nu exista interfata','2. QTcreator','3. nu stiu','4. C graphics',2);
+
+insert into questions values(null,'Un fenomen meteo este...','1. Ninsoarea','2. Accident rutier','3. Un bug in program','4. Black Friday',1);
+
+insert into questions values(null,'Cursul la BD se gasete pe...','1. emag.ro','2. Google.com','3. profs.info.uaic.ro/~bd','4. Wikipedia',3);
+
+insert into questions values(null,'Situatia la Retele se gaseste pe ....','1. Digi24.ro','2. Twitter.com','3. facebook.com','4. profs.info.uaic.ro/~ComputerNetworks',4);
+
+insert into questions values(null,'Taxa la retele se plateste in ....','1. Bitcoin','2. RON','3. Lire','4. Lacrimi',2);
+
+insert into questions values(null,'Un procesor i5 are ....','1. 4 nuclee','2. 1 nucleu','3. 3 nuclee','4. 7 nuclee',1);
+
+insert into questions values(null,'Constanta se gaseste in....','1. Franta','2. nu stiu','3. Romania','4. India',3);
+
+insert into questions values(null,'La LFAC am folosit ....','1. Java','2. C#','3. Algoritmi genetici','4. C Lex/Bison',4);
